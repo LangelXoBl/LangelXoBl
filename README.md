@@ -39,5 +39,3 @@ I am a full stack app developer looking for new experiences and knowledge in the
 <img align='left' alt='mysql' style="padding-right:16px;"  height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align='left' alt='mongodb' style="padding-right:16px;"  height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img alt='vscode' style="padding-right:16px;"  height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-hola
